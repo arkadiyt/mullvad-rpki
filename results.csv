@@ -1,0 +1,521 @@
+relay,ip,asn,name,valid,invalid
+al-tia-001,31.171.154.211,197706,"",true,false
+au-adl-001,116.206.231.59,133480,Intergrid,true,false
+au-bne-001,43.245.160.163,133480,Intergrid,true,false
+au-cbr-001,116.206.229.99,133480,Intergrid,true,false
+au-mel-002,116.206.228.203,133480,Intergrid,true,false
+au-mel-003,116.206.228.243,133480,Intergrid,true,false
+au-mel-004,116.206.230.99,133480,Intergrid,true,false
+au-per-001,103.77.235.67,133480,Intergrid,true,false
+au-syd-001,43.245.162.131,133480,Intergrid,true,false
+au-syd-002,103.77.232.131,133480,Intergrid,true,false
+au-syd-003,103.77.232.147,133480,Intergrid,true,false
+au-syd-101,217.138.204.73,9009,M247,true,false
+au-syd-102,217.138.204.84,9009,M247,true,false
+au-syd-103,217.138.204.100,9009,M247,true,false
+at-vie-001,217.64.127.139,9009,M247,true,false
+at-vie-002,217.64.127.203,9009,M247,true,false
+at-vie-003,37.120.155.251,9009,M247,true,false
+be-bru-001,185.104.186.203,9009,M247,true,false
+be-bru-002,91.207.57.51,9009,M247,true,false
+be-bru-003,37.120.143.139,9009,M247,true,false
+be-bru-004,37.120.218.142,9009,M247,true,false
+be-bru-005,37.120.218.148,9009,M247,true,false
+br-sao-001,177.67.80.187,53013,W I X NET DO BRASIL,true,false
+br-sao-002,181.215.46.112,61317,Digital Energy Technologies Limited (Global),true,false
+bg-sof-001,185.94.192.43,9009,M247,true,false
+bg-sof-002,185.94.192.67,9009,M247,true,false
+ca-mtr-001,87.101.92.139,9009,M247,true,false
+ca-mtr-002,87.101.92.147,9009,M247,true,false
+ca-mtr-003,176.113.74.187,9009,M247,true,false
+ca-mtr-004,176.113.74.179,9009,M247,true,false
+ca-mtr-005,139.28.218.115,9009,M247,true,false
+ca-mtr-006,37.120.205.115,9009,M247,true,false
+ca-mtr-007,37.120.205.123,9009,M247,true,false
+ca-mtr-008,217.138.200.190,9009,M247,true,false
+ca-mtr-009,217.138.200.196,9009,M247,true,false
+ca-mtr-010,217.138.200.205,9009,M247,true,false
+ca-mtr-011,217.138.200.214,9009,M247,true,false
+ca-tor-001,184.75.214.131,32489,Amanah Tech,true,false
+ca-tor-002,162.219.176.251,32489,Amanah Tech,true,false
+ca-van-001,172.83.40.52,46562,Total Server Solutions,true,false
+ca-van-002,172.83.40.48,46562,Total Server Solutions,true,false
+ca-van-003,71.19.248.193,11831,"",true,false
+ca-van-004,71.19.249.82,11831,"",true,false
+cz-prg-004,217.138.199.78,9009,M247,true,false
+cz-prg-005,217.138.199.84,9009,M247,true,false
+dk-cph-001,141.98.254.131,39351,31173 Services AB,true,false
+dk-cph-002,141.98.254.132,39351,31173 Services AB,true,false
+dk-cph-101,185.206.224.115,9009,M247,true,false
+dk-cph-102,185.206.224.120,9009,M247,true,false
+dk-cph-201,134.90.149.139,50304,Blix Solutions AS,true,false
+dk-cph-301,82.103.140.214,30736,ASERGO,true,false
+fi-hel-001,185.204.1.181,51765,"",true,false
+fi-hel-002,185.204.1.182,51765,"",true,false
+fi-hel-003,185.204.1.183,51765,"",true,false
+fi-hel-004,185.204.1.184,51765,"",true,false
+fi-hel-005,185.204.1.185,51765,"",true,false
+fi-hel-006,185.204.1.186,51765,"",true,false
+fi-hel-007,185.212.149.205,51765,"",true,false
+fr-par-001,193.32.126.152,39351,31173 Services AB,true,false
+fr-par-002,193.32.126.154,39351,31173 Services AB,true,false
+fr-par-003,193.32.126.158,39351,31173 Services AB,true,false
+fr-par-004,193.32.126.161,39351,31173 Services AB,true,false
+fr-par-101,185.128.25.163,9009,M247,true,false
+fr-par-102,185.156.173.219,9009,M247,true,false
+fr-par-103,185.189.113.83,9009,M247,true,false
+de-fra-001,185.213.155.161,39351,31173 Services AB,true,false
+de-fra-002,185.213.155.162,39351,31173 Services AB,true,false
+de-fra-003,185.213.155.163,39351,31173 Services AB,true,false
+de-fra-004,185.213.155.164,39351,31173 Services AB,true,false
+de-fra-005,185.213.155.165,39351,31173 Services AB,true,false
+de-fra-006,185.213.155.166,39351,31173 Services AB,true,false
+de-fra-007,185.213.155.176,39351,31173 Services AB,true,false
+de-fra-008,185.213.155.168,39351,31173 Services AB,true,false
+de-fra-009,185.213.155.169,39351,31173 Services AB,true,false
+de-fra-010,185.213.155.170,39351,31173 Services AB,true,false
+de-fra-011,185.213.155.171,39351,31173 Services AB,true,false
+de-fra-013,185.213.155.173,39351,31173 Services AB,true,false
+de-fra-014,185.213.155.174,39351,31173 Services AB,true,false
+de-fra-015,185.213.155.175,39351,31173 Services AB,true,false
+de-fra-101,82.102.16.91,9009,M247,true,false
+de-fra-102,185.104.184.187,9009,M247,true,false
+de-fra-103,77.243.183.203,9009,M247,true,false
+gr-ath-001,185.226.67.169,205053,"",true,false
+hk-hkg-001,209.58.184.136,133752,LeaseWeb Asia Pacific / HKG-10,true,false
+hk-hkg-002,209.58.185.41,133752,LeaseWeb Asia Pacific / HKG-10,true,false
+hk-hkg-003,209.58.185.183,133752,LeaseWeb Asia Pacific / HKG-10,true,false
+hu-bud-001,185.189.114.11,9009,M247,true,false
+hu-bud-002,185.94.190.139,9009,M247,true,false
+ie-dub-001,217.138.222.85,16247,M247 Ltd,true,false
+ie-dub-002,217.138.222.94,16247,M247 Ltd,true,false
+il-tlv-001,185.191.207.211,35758,HQserv Networks,true,false
+it-mil-001,217.64.113.181,9009,M247,true,false
+it-mil-002,217.64.113.184,9009,M247,true,false
+it-mil-003,217.138.197.108,9009,M247,true,false
+it-mil-004,217.138.197.100,9009,M247,true,false
+it-mil-005,217.138.197.117,9009,M247,true,false
+jp-tyo-001,37.120.210.124,9009,M247,true,false
+jp-tyo-002,185.242.4.52,9009,M247,true,false
+jp-tyo-003,193.148.16.219,9009,M247,true,false
+jp-tyo-004,37.120.210.149,9009,M247,true,false
+jp-tyo-005,37.120.210.141,9009,M247,true,false
+lv-rix-001,31.170.22.3,43513,Nano IT,true,false
+lu-lux-001,92.223.89.164,199524,G-Core Labs S.A.,true,false
+lu-lux-002,92.223.89.201,199524,G-Core Labs S.A.,true,false
+md-kiv-001,178.175.142.195,43289,trabia network,true,false
+nl-ams-002,185.65.134.162,39351,31173 Services AB,true,false
+nl-ams-003,185.65.134.181,39351,31173 Services AB,true,false
+nl-ams-004,185.65.134.164,39351,31173 Services AB,true,false
+nl-ams-005,185.65.134.165,39351,31173 Services AB,true,false
+nl-ams-006,185.65.134.166,39351,31173 Services AB,true,false
+nl-ams-009,185.65.134.169,39351,31173 Services AB,true,false
+nl-ams-010,185.65.134.170,39351,31173 Services AB,true,false
+nl-ams-011,185.65.134.171,39351,31173 Services AB,true,false
+nl-ams-012,185.65.134.172,39351,31173 Services AB,true,false
+nl-ams-013,185.65.134.173,39351,31173 Services AB,true,false
+nl-ams-014,185.65.134.174,39351,31173 Services AB,true,false
+nl-ams-016,185.65.134.176,39351,31173 Services AB,true,false
+nl-ams-017,185.65.134.177,39351,31173 Services AB,true,false
+nl-ams-018,185.65.134.178,39351,31173 Services AB,true,false
+nz-akl-001,103.231.91.115,133480,Intergrid,true,false
+no-osl-001,91.90.44.21,50304,Blix Solutions AS,true,false
+no-osl-002,91.90.44.22,50304,Blix Solutions AS,true,false
+no-osl-003,91.90.44.23,50304,Blix Solutions AS,true,false
+no-osl-004,91.90.44.24,50304,Blix Solutions AS,true,false
+no-osl-005,91.90.44.25,50304,Blix Solutions AS,true,false
+no-osl-006,91.90.44.26,50304,Blix Solutions AS,true,false
+no-osl-007,91.90.44.27,50304,Blix Solutions AS,true,false
+no-osl-008,91.90.44.28,50304,Blix Solutions AS,true,false
+pl-waw-001,37.120.156.163,9009,M247,true,false
+pl-waw-002,185.244.214.211,9009,M247,true,false
+pl-waw-003,185.244.214.216,9009,M247,true,false
+pl-waw-004,37.120.211.188,9009,M247,true,false
+pl-waw-005,37.120.211.198,9009,M247,true,false
+pl-waw-006,37.120.211.205,9009,M247,true,false
+pt-lis-001,5.206.231.215,47674,"",true,false
+ro-buh-001,185.45.13.11,9009,M247,true,false
+ro-buh-002,185.181.100.203,9009,M247,true,false
+ro-buh-003,89.40.181.214,9009,M247,true,false
+ro-buh-004,89.40.181.84,9009,M247,true,false
+ro-buh-005,89.40.181.149,9009,M247,true,false
+rs-beg-001,141.98.103.51,9009,M247,true,false
+rs-ini-001,185.96.210.192,198371,NINET,true,false
+sg-sin-001,185.128.24.51,9009,M247,true,false
+sg-sin-002,37.120.208.222,9009,M247,true,false
+sg-sin-003,37.120.208.228,9009,M247,true,false
+sg-sin-004,37.120.208.236,9009,M247,true,false
+sg-sin-101,103.254.153.113,59253,LeaseWeb Asia Pacific / SIN-10,true,false
+es-mad-001,89.238.178.35,9009,M247,true,false
+es-mad-002,89.238.178.75,9009,M247,true,false
+es-mad-003,195.206.107.147,9009,M247,true,false
+es-mad-004,45.152.183.30,9009,M247,true,false
+es-mad-005,45.152.183.44,9009,M247,true,false
+se-got-001,185.213.154.161,39351,31173 Services AB,true,false
+se-got-002,185.213.154.162,39351,31173 Services AB,true,false
+se-got-003,185.213.154.163,39351,31173 Services AB,true,false
+se-got-004,185.213.154.164,39351,31173 Services AB,true,false
+se-got-005,185.213.154.165,39351,31173 Services AB,true,false
+se-got-006,185.213.154.166,39351,31173 Services AB,true,false
+se-got-007,185.213.154.167,39351,31173 Services AB,true,false
+se-got-008,185.213.154.168,39351,31173 Services AB,true,false
+se-got-009,185.213.154.169,39351,31173 Services AB,true,false
+se-got-010,185.213.154.170,39351,31173 Services AB,true,false
+se-got-011,185.213.154.171,39351,31173 Services AB,true,false
+se-got-012,185.213.154.172,39351,31173 Services AB,true,false
+se-hel-001,185.213.152.175,39351,31173 Services AB,true,false
+se-hel-002,185.213.152.176,39351,31173 Services AB,true,false
+se-hel-003,185.213.152.163,39351,31173 Services AB,true,false
+se-hel-004,185.213.152.164,39351,31173 Services AB,true,false
+se-hel-007,185.213.152.167,39351,31173 Services AB,true,false
+se-hel-008,185.213.152.168,39351,31173 Services AB,true,false
+se-mma-001,193.138.218.161,39351,31173 Services AB,true,false
+se-mma-002,193.138.218.162,39351,31173 Services AB,true,false
+se-mma-003,193.138.218.163,39351,31173 Services AB,true,false
+se-mma-004,193.138.218.164,39351,31173 Services AB,true,false
+se-mma-006,193.138.218.166,39351,31173 Services AB,true,false
+se-mma-007,193.138.218.167,39351,31173 Services AB,true,false
+se-mma-008,193.138.218.168,39351,31173 Services AB,true,false
+se-mma-013,141.98.255.143,39351,31173 Services AB,true,false
+se-mma-014,141.98.255.144,39351,31173 Services AB,true,false
+se-mma-015,141.98.255.145,39351,31173 Services AB,true,false
+se-mma-016,141.98.255.146,39351,31173 Services AB,true,false
+se-mma-017,141.98.255.147,39351,31173 Services AB,true,false
+se-mma-018,141.98.255.148,39351,31173 Services AB,true,false
+se-mma-019,141.98.255.149,39351,31173 Services AB,true,false
+se-mma-020,141.98.255.150,39351,31173 Services AB,true,false
+se-mma-021,141.98.255.151,39351,31173 Services AB,true,false
+                       be4-wireguard,37.120.218.166,9009,M247,true,false
+br1-wireguard,45.162.228.190,268581,QNAX LTDA,true,false
+bg1-wireguard,82.102.23.29,9009,M247,true,false
+bg2-wireguard,37.120.152.126,9009,M247,true,false
+bg3-wireguard,37.120.152.158,9009,M247,true,false
+au3-wireguard,103.231.88.10,133480,Intergrid,true,false
+au4-wireguard,103.231.88.30,133480,Intergrid,true,false
+au1-wireguard,43.245.162.237,133480,Intergrid,true,false
+au2-wireguard,103.77.233.62,133480,Intergrid,true,false
+au5-wireguard,217.138.204.122,9009,M247,true,false
+au6-wireguard,217.138.204.138,9009,M247,true,false
+au7-wireguard,217.138.204.153,9009,M247,true,false
+at1-wireguard,185.210.219.245,9009,M247,true,false
+be1-wireguard,193.9.114.5,9009,M247,true,false
+be3-wireguard,37.120.218.158,9009,M247,true,false
+be4-wireguard,37.120.218.166,9009,M247,true,false
+ca1-wireguard,37.120.205.222,9009,M247,true,false
+ca3-wireguard,87.101.92.157,9009,M247,true,false
+ca4-wireguard,37.120.205.110,9009,M247,true,false
+ca5-wireguard,37.120.205.206,9009,M247,true,false
+ca6-wireguard,37.120.205.238,9009,M247,true,false
+ca8-wireguard,217.138.200.222,9009,M247,true,false
+ca9-wireguard,217.138.200.230,9009,M247,true,false
+ca2-wireguard,172.83.40.74,46562,Total Server Solutions,true,false
+ca7-wireguard,71.19.249.43,11831,"",true,false
+cz1-wireguard,185.242.6.21,9009,M247,true,false
+cz2-wireguard,193.9.112.126,9009,M247,true,false
+cz3-wireguard,185.242.6.206,9009,M247,true,false
+cz4-wireguard,217.138.199.94,9009,M247,true,false
+cz5-wireguard,217.138.199.102,9009,M247,true,false
+dk1-wireguard,185.245.84.125,9009,M247,true,false
+dk2-wireguard,141.98.254.226,39351,31173 Services AB,true,false
+fi1-wireguard,185.204.1.210,51765,"",true,false
+fi2-wireguard,185.204.1.218,51765,"",true,false
+fi3-wireguard,185.204.1.226,51765,"",true,false
+fr1-wireguard,185.156.173.29,9009,M247,true,false
+fr2-wireguard,37.120.204.10,9009,M247,true,false
+fr3-wireguard,37.120.204.30,9009,M247,true,false
+fr4-wireguard,193.32.126.216,39351,31173 Services AB,true,false
+fr5-wireguard,193.32.126.222,39351,31173 Services AB,true,false
+fr6-wireguard,193.32.126.228,39351,31173 Services AB,true,false
+fr7-wireguard,193.32.126.234,39351,31173 Services AB,true,false
+fr8-wireguard,193.32.126.240,39351,31173 Services AB,true,false
+de1-wireguard,185.216.33.117,9009,M247,true,false
+de4-wireguard,185.213.155.160,39351,31173 Services AB,true,false
+de5-wireguard,185.213.155.252,39351,31173 Services AB,true,false
+de6-wireguard,37.120.223.78,9009,M247,true,false
+hk1-wireguard,209.58.188.174,133752,LeaseWeb Asia Pacific / HKG-10,true,false
+hu1-wireguard,37.120.144.174,9009,M247,true,false
+hu2-wireguard,37.120.144.190,9009,M247,true,false
+ie1-wireguard,217.138.222.102,16247,M247 Ltd,true,false
+ie2-wireguard,217.138.222.110,16247,M247 Ltd,true,false
+it1-wireguard,95.174.64.45,9009,M247,true,false
+it2-wireguard,37.120.201.94,9009,M247,true,false
+it3-wireguard,37.120.201.126,9009,M247,true,false
+jp1-wireguard,91.207.174.229,9009,M247,true,false
+jp2-wireguard,45.87.213.158,9009,M247,true,false
+jp3-wireguard,37.120.210.158,9009,M247,true,false
+jp4-wireguard,37.120.210.174,9009,M247,true,false
+jp5-wireguard,37.120.210.134,9009,M247,true,false
+lv1-wireguard,31.170.22.30,43513,Nano IT,true,false
+lu1-wireguard,92.223.89.197,199524,G-Core Labs S.A.,true,false
+lu2-wireguard,92.223.89.168,199524,G-Core Labs S.A.,true,false
+md1-wireguard,178.175.131.101,43289,trabia network,true,false
+nl1-wireguard,185.65.134.251,39351,31173 Services AB,true,false
+nl2-wireguard,185.65.134.252,39351,31173 Services AB,true,false
+nl3-wireguard,185.65.134.253,39351,31173 Services AB,true,false
+nl4-wireguard,185.65.134.254,39351,31173 Services AB,true,false
+nl5-wireguard,185.65.134.250,39351,31173 Services AB,true,false
+nz1-wireguard,103.108.94.45,133480,Intergrid,true,false
+nz2-wireguard,103.231.91.238,133480,Intergrid,true,false
+no1-wireguard,176.125.235.84,50304,Blix Solutions AS,true,false
+no2-wireguard,176.125.235.99,50304,Blix Solutions AS,true,false
+no3-wireguard,176.125.235.109,50304,Blix Solutions AS,true,false
+no4-wireguard,176.125.235.119,50304,Blix Solutions AS,true,false
+pl1-wireguard,185.244.214.61,9009,M247,true,false
+pl2-wireguard,37.120.156.254,9009,M247,true,false
+pl3-wireguard,5.253.206.222,9009,M247,true,false
+pl4-wireguard,37.120.211.214,9009,M247,true,false
+ro1-wireguard,185.195.16.181,9009,M247,true,false
+ro2-wireguard,185.210.216.123,9009,M247,true,false
+ro3-wireguard,45.89.175.126,9009,M247,true,false
+rs1-wireguard,141.98.103.61,9009,M247,true,false
+rs2-wireguard,152.89.160.190,9009,M247,true,false
+sg1-wireguard,185.128.24.45,9009,M247,true,false
+sg2-wireguard,37.120.208.246,9009,M247,true,false
+sg3-wireguard,37.120.208.254,9009,M247,true,false
+es1-wireguard,194.99.104.13,9009,M247,true,false
+es2-wireguard,37.120.199.46,9009,M247,true,false
+es4-wireguard,45.152.183.54,9009,M247,true,false
+es5-wireguard,45.152.183.62,9009,M247,true,false
+se3-wireguard,185.213.154.226,39351,31173 Services AB,true,false
+se5-wireguard,185.213.154.232,39351,31173 Services AB,true,false
+se9-wireguard,185.213.154.238,39351,31173 Services AB,true,false
+se10-wireguard,193.32.248.1,39351,31173 Services AB,true,false
+se-mma-022,141.98.255.152,39351,31173 Services AB,true,false
+se-mma-023,141.98.255.153,39351,31173 Services AB,true,false
+se-mma-024,141.98.255.154,39351,31173 Services AB,true,false
+se-mma-101,45.83.220.151,39351,31173 Services AB,true,false
+se-mma-102,45.83.220.154,39351,31173 Services AB,true,false
+se-mma-103,45.83.220.159,39351,31173 Services AB,true,false
+se-mma-104,45.83.220.160,39351,31173 Services AB,true,false
+se-mma-105,45.83.220.163,39351,31173 Services AB,true,false
+se-mma-106,45.83.220.168,39351,31173 Services AB,true,false
+se-mma-112,45.83.220.184,39351,31173 Services AB,true,false
+se-mma-113,45.83.220.187,39351,31173 Services AB,true,false
+se1-wireguard,193.138.218.226,39351,31173 Services AB,true,false
+se4-wireguard,193.138.218.254,39351,31173 Services AB,true,false
+se15-wireguard,193.138.218.204,39351,31173 Services AB,true,false
+se16-wireguard,193.138.218.209,39351,31173 Services AB,true,false
+se17-wireguard,193.138.218.214,39351,31173 Services AB,true,false
+se18-wireguard,193.138.218.219,39351,31173 Services AB,true,false
+se19-wireguard,45.83.220.195,39351,31173 Services AB,true,false
+se21-wireguard,45.83.220.207,39351,31173 Services AB,true,false
+se22-wireguard,45.83.220.213,39351,31173 Services AB,true,false
+se23-wireguard,45.83.220.219,39351,31173 Services AB,true,false
+se24-wireguard,45.83.220.225,39351,31173 Services AB,true,false
+se-sto-001,185.65.135.186,39351,31173 Services AB,true,false
+se-sto-002,185.65.135.218,39351,31173 Services AB,true,false
+se-sto-003,185.65.135.163,39351,31173 Services AB,true,false
+se-sto-004,185.65.135.164,39351,31173 Services AB,true,false
+se-sto-005,185.65.135.165,39351,31173 Services AB,true,false
+se-sto-006,185.65.135.166,39351,31173 Services AB,true,false
+se-sto-007,185.65.135.167,39351,31173 Services AB,true,false
+se-sto-008,185.65.135.168,39351,31173 Services AB,true,false
+se-sto-009,185.65.135.169,39351,31173 Services AB,true,false
+se-sto-013,185.65.135.173,39351,31173 Services AB,true,false
+se-sto-014,185.65.135.174,39351,31173 Services AB,true,false
+se-sto-015,185.65.135.175,39351,31173 Services AB,true,false
+se-sto-016,185.65.135.176,39351,31173 Services AB,true,false
+se-sto-017,185.65.135.177,39351,31173 Services AB,true,false
+se-sto-018,185.65.135.178,39351,31173 Services AB,true,false
+se-sto-019,185.65.135.179,39351,31173 Services AB,true,false
+se-sto-020,185.65.135.180,39351,31173 Services AB,true,false
+se2-wireguard,185.65.135.251,39351,31173 Services AB,true,false
+se6-wireguard,185.65.135.252,39351,31173 Services AB,true,false
+se7-wireguard,185.65.135.253,39351,31173 Services AB,true,false
+se8-wireguard,185.65.135.254,39351,31173 Services AB,true,false
+se12-wireguard,185.65.135.231,39351,31173 Services AB,true,false
+se13-wireguard,185.65.135.241,39351,31173 Services AB,true,false
+se14-wireguard,185.65.135.249,39351,31173 Services AB,true,false
+ch-zrh-001,193.32.127.151,39351,31173 Services AB,true,false
+ch-zrh-002,193.32.127.154,39351,31173 Services AB,true,false
+ch-zrh-003,193.32.127.158,39351,31173 Services AB,true,false
+ch-zrh-004,193.32.127.160,39351,31173 Services AB,true,false
+ch-zrh-101,185.9.18.115,9009,M247,true,false
+ch-zrh-102,185.183.104.83,9009,M247,true,false
+ch-zrh-103,185.9.18.99,9009,M247,true,false
+ch-zrh-104,185.212.170.51,9009,M247,true,false
+ch-zrh-105,82.102.24.131,9009,M247,true,false
+ch-zrh-106,82.102.24.187,9009,M247,true,false
+ch-zrh-108,185.212.170.163,9009,M247,true,false
+ch-zrh-201,31.7.59.226,51852,Phase Layer Global Networks,true,false
+ch1-wireguard,185.212.170.229,9009,M247,true,false
+ch2-wireguard,81.17.24.204,51852,Phase Layer Global Networks,true,false
+ch3-wireguard,45.12.222.222,9009,M247,true,false
+ch4-wireguard,45.12.222.238,9009,M247,true,false
+ch5-wireguard,193.32.127.216,39351,31173 Services AB,true,false
+ch6-wireguard,193.32.127.222,39351,31173 Services AB,true,false
+ch7-wireguard,193.32.127.228,39351,31173 Services AB,true,false
+ch8-wireguard,193.32.127.234,39351,31173 Services AB,true,false
+ch9-wireguard,193.32.127.240,39351,31173 Services AB,true,false
+gb-lon-001,141.98.252.161,39351,31173 Services AB,true,false
+gb-lon-002,141.98.252.162,39351,31173 Services AB,true,false
+gb-lon-003,141.98.252.163,39351,31173 Services AB,true,false
+gb-lon-004,141.98.252.164,39351,31173 Services AB,true,false
+gb-lon-005,141.98.252.165,39351,31173 Services AB,true,false
+gb-lon-006,141.98.252.166,39351,31173 Services AB,true,false
+gb-lon-007,141.98.252.175,39351,31173 Services AB,true,false
+gb-lon-008,141.98.252.168,39351,31173 Services AB,true,false
+gb-lon-009,141.98.252.169,39351,31173 Services AB,true,false
+gb-lon-010,141.98.252.170,39351,31173 Services AB,true,false
+gb-lon-011,141.98.252.171,39351,31173 Services AB,true,false
+gb-lon-012,141.98.252.172,39351,31173 Services AB,true,false
+gb-lon-014,141.98.252.174,39351,31173 Services AB,true,false
+gb1-wireguard,185.200.118.103,9009,M247,true,false
+gb4-wireguard,141.98.252.251,39351,31173 Services AB,true,false
+gb5-wireguard,141.98.252.252,39351,31173 Services AB,true,false
+gb6-wireguard,37.120.198.78,9009,M247,true,false
+gb-mnc-002,89.238.183.61,9009,M247,true,false
+gb-mnc-003,89.238.183.245,9009,M247,true,false
+gb-mnc-004,217.151.98.69,9009,M247,true,false
+gb-mnc-005,37.120.159.165,9009,M247,true,false
+gb-mnc-006,81.92.205.14,9009,M247,true,false
+gb-mnc-007,81.92.205.22,9009,M247,true,false
+gb-mnc-008,81.92.205.29,9009,M247,true,false
+gb-mnc-009,89.238.130.68,9009,M247,true,false
+gb-mnc-010,89.238.130.78,9009,M247,true,false
+gb3-wireguard,89.238.167.247,9009,M247,true,false
+gb7-wireguard,185.206.227.142,9009,M247,true,false
+gb8-wireguard,81.92.206.6,9009,M247,true,false
+gb9-wireguard,81.92.206.14,9009,M247,true,false
+gb10-wireguard,89.238.143.230,9009,M247,true,false
+us-atl-003,66.71.240.201,46562,Total Server Solutions,true,false
+us6-wireguard,66.71.247.204,46562,Total Server Solutions,true,false
+us-chi-001,68.235.43.124,11878,"",true,false
+us-chi-002,68.235.43.12,11878,"",true,false
+us-chi-003,68.235.43.21,11878,"",true,false
+us-chi-004,68.235.43.30,11878,"",true,false
+us-chi-005,68.235.43.36,11878,"",true,false
+us-chi-008,68.235.43.62,11878,"",true,false
+us-chi-009,68.235.43.69,11878,"",true,false
+us-chi-010,68.235.43.78,11878,"",true,false
+us-chi-101,104.129.31.27,8100,QuadraNet,true,false
+us4-wireguard,68.235.43.86,11878,"",true,false
+us18-wireguard,68.235.43.94,11878,"",true,false
+us22-wireguard,68.235.43.102,11878,"",true,false
+us23-wireguard,68.235.43.110,11878,"",true,false
+us-dal-002,96.44.147.131,8100,QuadraNet,true,false
+us7-wireguard,192.111.140.133,46562,Total Server Solutions,true,false
+us17-wireguard,170.130.31.94,62904,Eonix N.A. Region,true,false
+us44-wireguard,198.54.128.62,46844,ST-BGP,true,false
+us45-wireguard,198.54.128.54,46844,ST-BGP,true,false
+us46-wireguard,198.54.128.46,46844,ST-BGP,true,false
+us47-wireguard,198.54.128.38,46844,ST-BGP,true,false
+us-lax-001,185.236.200.100,9009,M247,true,false
+us-lax-002,185.236.200.91,9009,M247,true,false
+us-lax-003,185.236.200.243,9009,M247,true,false
+us-lax-004,45.152.182.61,9009,M247,true,false
+us-lax-005,185.236.200.67,9009,M247,true,false
+us-lax-006,185.236.200.72,9009,M247,true,false
+us-lax-007,45.152.182.69,9009,M247,true,false
+us-lax-008,45.152.182.76,9009,M247,true,false
+us-lax-012,82.102.31.53,9009,M247,true,false
+us-lax-013,45.83.89.168,9009,M247,true,false
+us-lax-014,185.230.126.149,9009,M247,true,false
+us-lax-101,198.54.129.84,46844,ST-BGP,true,false
+us2-wireguard,185.236.200.250,9009,M247,true,false
+us8-wireguard,149.248.24.10,20473,"Choopa, LLC",true,false
+us11-wireguard,185.242.5.53,9009,M247,true,false
+us35-wireguard,45.152.182.54,9009,M247,true,false
+us36-wireguard,45.152.182.46,9009,M247,true,false
+us37-wireguard,45.152.182.38,9009,M247,true,false
+us48-wireguard,198.54.129.70,46844,ST-BGP,true,false
+us49-wireguard,198.54.129.62,46844,ST-BGP,true,false
+us50-wireguard,198.54.129.54,46844,ST-BGP,true,false
+us51-wireguard,198.54.129.46,46844,ST-BGP,true,false
+us-mia-001,193.37.252.131,9009,M247,true,false
+us-mia-002,37.120.215.134,9009,M247,true,false
+us-mia-003,193.37.252.139,9009,M247,true,false
+us-mia-004,193.37.252.155,9009,M247,true,false
+us-mia-005,37.120.215.142,9009,M247,true,false
+us-mia-101,107.181.164.1,46562,Total Server Solutions,true,false
+us-mia-201,45.62.60.4,53889,Micfo,true,false
+us3-wireguard,193.37.252.149,9009,M247,true,false
+us19-wireguard,45.87.214.254,9009,M247,true,false
+us20-wireguard,173.44.37.62,8100,QuadraNet,true,false
+us27-wireguard,45.62.60.14,53889,Micfo,true,false
+us40-wireguard,37.120.215.150,9009,M247,true,false
+us41-wireguard,37.120.215.158,9009,M247,true,false
+us42-wireguard,37.120.215.166,9009,M247,true,false
+us43-wireguard,37.120.215.174,9009,M247,true,false
+us-nyc-001,185.232.22.67,9009,M247,true,false
+us-nyc-002,185.232.22.99,9009,M247,true,false
+us-nyc-003,193.148.18.251,9009,M247,true,false
+us-nyc-006,217.138.206.4,9009,M247,true,false
+us-nyc-007,217.138.206.12,9009,M247,true,false
+us-nyc-009,193.148.18.227,9009,M247,true,false
+us-nyc-010,193.148.18.237,9009,M247,true,false
+us-nyc-011,87.101.95.107,9009,M247,true,false
+us-nyc-012,193.148.18.195,9009,M247,true,false
+us-nyc-013,87.101.95.99,9009,M247,true,false
+us-nyc-014,87.101.95.115,9009,M247,true,false
+us-nyc-015,87.101.95.123,9009,M247,true,false
+us-nyc-016,212.103.48.59,9009,M247,true,false
+us-nyc-017,212.103.48.227,9009,M247,true,false
+us-nyc-018,176.113.72.227,9009,M247,true,false
+us-nyc-019,217.138.198.252,9009,M247,true,false
+us-nyc-101,107.182.237.14,32780,Hosting Services Inc,true,false
+us-nyc-102,107.182.237.18,32780,Hosting Services Inc,true,false
+us1-wireguard,185.232.22.61,9009,M247,true,false
+us13-wireguard,193.148.18.213,9009,M247,true,false
+us29-wireguard,217.138.206.78,9009,M247,true,false
+us30-wireguard,217.138.206.70,9009,M247,true,false
+us31-wireguard,217.138.198.246,9009,M247,true,false
+us32-wireguard,217.138.206.22,9009,M247,true,false
+us33-wireguard,217.138.206.38,9009,M247,true,false
+us34-wireguard,217.138.206.46,9009,M247,true,false
+us-pil-002,108.61.48.116,20473,"Choopa, LLC",true,false
+us-pil-003,66.55.147.60,20473,"Choopa, LLC",true,false
+us14-wireguard,108.61.143.189,20473,"Choopa, LLC",true,false
+us-slc-001,67.212.238.174,29854,Westhost,true,false
+us-slc-002,173.244.208.35,29854,Westhost,true,false
+us-slc-003,107.182.234.92,29854,Westhost,true,false
+us-slc-004,107.182.234.189,29854,Westhost,true,false
+us-slc-005,173.244.209.236,29854,Westhost,true,false
+us-slc-006,67.212.238.148,29854,Westhost,true,false
+us-slc-007,173.244.209.80,29854,Westhost,true,false
+us-slc-008,107.182.239.164,29854,Westhost,true,false
+us-slc-009,209.95.56.111,29854,Westhost,true,false
+us9-wireguard,107.182.239.140,29854,Westhost,true,false
+us24-wireguard,67.212.238.250,29854,Westhost,true,false
+us25-wireguard,107.182.233.63,29854,Westhost,true,false
+us26-wireguard,209.95.56.84,29854,Westhost,true,false
+us5-wireguard,104.200.129.62,46562,Total Server Solutions,true,false
+us-uyk-001,23.226.131.131,8100,QuadraNet,true,false
+us-uyk-002,23.226.131.155,8100,QuadraNet,true,false
+se-mma-107,45.83.220.171,39351,31173 Services AB,true,false
+se-mma-108,45.83.220.172,39351,31173 Services AB,true,false
+se-mma-110,45.83.220.180,39351,31173 Services AB,true,false
+se-mma-111,45.83.220.181,39351,31173 Services AB,true,false
+se-sto-021,185.65.135.181,39351,31173 Services AB,true,false
+se-sto-022,185.65.135.182,39351,31173 Services AB,true,false
+se-sto-023,185.65.135.183,39351,31173 Services AB,true,false
+se-sto-024,185.65.135.184,39351,31173 Services AB,true,false
+ch-zrh-202,179.43.152.50,51852,Phase Layer Global Networks,true,false
+gb-lon-013,141.98.252.173,39351,31173 Services AB,true,false
+gb-lon-202,185.212.168.245,9009,M247,true,false
+gb-mnc-001,89.238.132.37,9009,M247,true,false
+us-chi-007,68.235.43.54,11878,"",true,false
+us-dal-003,104.200.159.72,46562,Total Server Solutions,true,false
+us-den-001,198.54.128.76,46844,ST-BGP,true,false
+us-den-002,198.54.128.69,46844,ST-BGP,true,false
+us-lax-102,198.54.129.77,46844,ST-BGP,true,false
+us-lax-202,104.200.135.125,46562,Total Server Solutions,true,false
+us-lax-301,104.238.143.59,20473,"Choopa, LLC",true,false
+us-lax-302,173.199.80.51,20473,"Choopa, LLC",true,false
+us-nyc-004,185.217.69.123,9009,M247,true,false
+us-sea-002,104.200.129.53,46562,Total Server Solutions,true,false
+us-sea-003,104.200.129.57,46562,Total Server Solutions,true,false
+us-sea-004,104.200.129.48,46562,Total Server Solutions,true,false
+se-mma-109,45.83.220.177,39351,31173 Services AB,true,false
+se-sto-010,185.65.135.170,39351,31173 Services AB,true,false
+se-sto-011,185.65.135.171,39351,31173 Services AB,true,false
+se-sto-012,185.65.135.172,39351,31173 Services AB,true,false
+ae-dxb-001,45.9.249.35,9009,M247,true,false
+us-atl-001,66.71.242.125,46562,Total Server Solutions,true,false
+us-atl-002,104.129.24.243,8100,QuadraNet,true,false
+us-chi-006,68.235.43.44,11878,"",true,false
+us-nyc-005,185.232.22.11,9009,M247,true,false
+us-nyc-008,193.148.18.219,9009,M247,true,false
+us-nyc-020,217.138.206.60,9009,M247,true,false
+us-pil-001,108.61.78.139,20473,"Choopa, LLC",true,false
+us-sea-001,104.200.129.212,46562,Total Server Solutions,true,false
